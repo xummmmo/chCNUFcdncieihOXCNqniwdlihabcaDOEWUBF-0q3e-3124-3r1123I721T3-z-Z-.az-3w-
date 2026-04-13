@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1776094071263,
+  "timestamp": 1776097205249,
   "appVersion": "4.0.0 (2026.04.11)",
   "tables": [
     "characters",
@@ -34,5 +34,8 @@
     "quickReplies",
     "goingOutState",
     "_migration"
-  ]
+  ],
+  "chunkedTables": {
+    "messages": 2
+  }
 }
