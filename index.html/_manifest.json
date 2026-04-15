@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1776272276921,
+  "timestamp": 1776272290824,
   "appVersion": "4.0.0 (2026.04.11)",
   "tables": [
     "characters",
@@ -36,8 +36,5 @@
     "mapRasterCache",
     "customGames",
     "_migration"
-  ],
-  "chunkedTables": {
-    "messages": 4
-  }
+  ]
 }
