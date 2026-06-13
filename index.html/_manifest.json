@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781292368336,
+  "timestamp": 1781330862407,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -62,30 +62,6 @@
     "homelandState",
     "_migration"
   ],
-  "chunkedTables": {
-    "globalSettings": 2,
-    "stickers": 5,
-    "userPosts": 2,
-    "messages": 33
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "chatSettings": true,
-    "calendarData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "imageStore": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true
-  },
   "source": "auto",
   "inProgress": true
 }
