@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781766712141,
+  "timestamp": 1781766718972,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -74,7 +74,9 @@
     "kaomojis": true,
     "users": true,
     "userState": true,
-    "chatSettings": true
+    "chatSettings": true,
+    "favorites": true,
+    "memory": true
   },
   "source": "auto",
   "inProgress": true
